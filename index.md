@@ -16,4 +16,3 @@ My research interests focus on multimodal reasoning, including the understanding
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
