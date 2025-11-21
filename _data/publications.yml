@@ -24,7 +24,7 @@ main:
     code: https://github.com/MME-Benchmarks/MME-CoT
     project: https://mmecot.github.io/
     benchmark: https://huggingface.co/datasets/CaraJ/MME-CoT
-    image: ./assets/img/Mme-cot.png
+    image: ./assets/img/Mme-cot.jpg
 
   - title: Learning from Mistakes: Iterative Prompt Relabeling for Text-to-Image Diffusion Model Training
     authors: <strong>Xinyan Chen*</strong>, Jiaxin Ge*, Tianjun Zhang*, Jiaming Liu, Shanghang Zhang
@@ -39,7 +39,7 @@ main:
     pdf: https://arxiv.org/abs/2511.16671
     code: https://github.com/ZiyuGuo99/Thinking-while-Generating
     project: https://think-while-gen.github.io/
-    image: ./assets/img/TwiG.png
+    image: ./assets/img/TwiG.jpg
 
   - title: EmpathyAgent: Can Embodied Agents Conduct Empathetic Actions?
     authors: <strong>Xinyan Chen*</strong>, Jiaxin Ge*, Hongming Dai*, Qiang Zhou, Qiuxuan Feng, Jingtong Hu, Yizhou Wang, Jiaming Liu, Shanghang Zhang
