@@ -4,19 +4,15 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I’m a first-year Ph.D. student in [Multimedia Lab (MMLab)](https://mmlab.ie.cuhk.edu.hk/), [CUHK](https://www.cuhk.edu.hk/english/index.html), supervised by Prof. [Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/). Before that, I received my B.E. degree from the [University of Science and Technology of China](https://www.ustc.edu.cn/).
 
-## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+My research interests focus on multimodal reasoning, including the understanding and generation of multimodal models.
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[2025-11]** 🔥 We release [Thinking-while-Generating (TwiG)](https://github.com/ZiyuGuo99/Thinking-while-Generating), an interleaved framework that enables co-evolving textual reasoning throughout the visual generation process.
+- **[2025-10]** 🔥 We release [Are Video Models Ready as Zero-Shot Reasoners? An Empirical Study with the MME-CoF Benchmark](https://arxiv.org/abs/2510.26802), an empirical study on the zero-shot reasoning capabilities of video models.
+- **[2025-09]** 🎉 One paper ([MINT-CoT](https://arxiv.org/abs/2506.05331)) is accepted by NeurIPS 2025.
 
 {% include_relative _includes/publications.md %}
 
