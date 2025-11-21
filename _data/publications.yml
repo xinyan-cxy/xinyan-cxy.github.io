@@ -1,22 +1,50 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: MINT-CoT: Enabling Interleaved Visual Tokens in Mathematical Chain-of-Thought Reasoning
+    authors: <strong>Xinyan Chen*</strong>, Renrui Zhang*, Dongzhi Jiang, Aojun Zhou, Shilin Yan, Weifeng Lin, Hongsheng Li
+    conference_short: NeurIPS 2025
+    pdf: https://arxiv.org/abs/2506.05331
+    code: https://github.com/xinyan-cxy/MINT-CoT
+    dataset: https://huggingface.co/datasets/xy06/MINT-CoT-Dataset
+    image: ./assets/img/MINT-CoT.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: Are Video Models Ready as Zero-Shot Reasoners? An Empirical Study with the MME-CoF Benchmark
+    authors: Ziyu Guo*, <strong>Xinyan Chen*</strong>, Renrui Zhang*, Ruichuan An*, Yu Qi*, Dongzhi Jiang, Xiangtai Li, Manyuan Zhang, Hongsheng Li, Pheng-Ann Heng
+    conference_short: arXiv 2025
+    pdf: https://arxiv.org/pdf/2510.26802
+    code: https://github.com/ZiyuGuo99/MME-CoF
+    project: https://video-cof.github.io/
+    benchmark: https://huggingface.co/datasets/ZiyuG/MME-CoF
+    image: ./assets/img/MME-CoF.png
+
+  - title: Mme-cot: Benchmarking chain-of-thought in large multimodal models for reasoning quality, robustness, and efficiency
+    authors: Dongzhi Jiang*, Renrui Zhang*, Ziyu Guo, Yanwei Li&dagger, Yu Qi&dagger, <strong>Xinyan Chen&dagger</strong>, Liuhui Wang&dagger, Jianhan Jin&dagger, Claire Guo&dagger, Shen Yan, Bo Zhang, Chaoyou Fu, Peng Gao, Hongsheng Li
+    conference_short: ICML 2025
+    pdf: https://arxiv.org/abs/2502.09621
+    code: https://github.com/MME-Benchmarks/MME-CoT
+    project: https://mmecot.github.io/
+    benchmark: https://huggingface.co/datasets/CaraJ/MME-CoT
+    image: ./assets/img/Mme-cot.png
+
+  - title: Learning from Mistakes: Iterative Prompt Relabeling for Text-to-Image Diffusion Model Training
+    authors: <strong>Xinyan Chen*</strong>, Jiaxin Ge*, Tianjun Zhang*, Jiaming Liu, Shanghang Zhang
+    conference_short: EMNLP 2024
+    pdf: https://arxiv.org/pdf/2312.16204
+    code: https://github.com/xinyan-cxy/IPR-RLDF
+    image: ./assets/img/IPR-RLDF.png
+
+  - title: Thinking-while-Generating: Interleaving Textual Reasoning throughout Visual Generation
+    authors: Ziyu Guo*, Renrui Zhang*, Hongyu Li*, Manyuan Zhang, <strong>Xinyan Chen</strong>, Sifan Wang, Yan Feng, Peng Pei, Pheng-Ann Heng
+    conference_short: arXiv 2025
+    pdf: https://arxiv.org/abs/2511.16671
+    code: https://github.com/ZiyuGuo99/Thinking-while-Generating
+    project: https://think-while-gen.github.io/
+    image: ./assets/img/TwiG.png
+
+  - title: EmpathyAgent: Can Embodied Agents Conduct Empathetic Actions?
+    authors: <strong>Xinyan Chen*</strong>, Jiaxin Ge*, Hongming Dai*, Qiang Zhou, Qiuxuan Feng, Jingtong Hu, Yizhou Wang, Jiaming Liu, Shanghang Zhang
+    conference_short: arXiv 2025
+    pdf: https://arxiv.org/abs/2503.16545
+    code: https://github.com/xinyan-cxy/EmpathyAgent
+    image: ./assets/img/EmpathyAgent.png
+
