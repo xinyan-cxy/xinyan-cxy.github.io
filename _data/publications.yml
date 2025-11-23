@@ -18,7 +18,7 @@ main:
     image: ./assets/img/MME-CoF.png
 
   - title: "Mme-cot: Benchmarking chain-of-thought in large multimodal models for reasoning quality, robustness, and efficiency"
-    authors: "Dongzhi Jiang*, Renrui Zhang*, Ziyu Guo, Yanwei Li&dagger, Yu Qi&dagger, <strong>Xinyan Chen&dagger</strong>, Liuhui Wang&dagger, Jianhan Jin&dagger, Claire Guo&dagger, Shen Yan, Bo Zhang, Chaoyou Fu, Peng Gao, Hongsheng Li"
+    authors: "Dongzhi Jiang*, Renrui Zhang*, Ziyu Guo, Yanwei Li†, Yu Qi†, <strong>Xinyan Chen†</strong>, Liuhui Wang†, Jianhan Jin†, Claire Guo†, Shen Yan, Bo Zhang, Chaoyou Fu, Peng Gao, Hongsheng Li"
     conference_short: ICML 2025
     pdf: https://arxiv.org/abs/2502.09621
     code: https://github.com/MME-Benchmarks/MME-CoT
