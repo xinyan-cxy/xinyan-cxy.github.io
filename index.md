@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I’m a first-year Ph.D. student in [Multimedia Lab (MMLab)](https://mmlab.ie.cuhk.edu.hk/), [CUHK](https://www.cuhk.edu.hk/english/index.html), supervised by Prof. [Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/). Before that, I received my B.E. degree from the [University of Science and Technology of China](https://www.ustc.edu.cn/).
+I’m a first-year Ph.D. student in [Multimedia Lab (MMLab)](https://mmlab.ie.cuhk.edu.hk/), [CUHK](https://www.cuhk.edu.hk/english/index.html), supervised by Prof. [Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/). Before that, I received my B.E. degree from the [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/).
 
 My research interests focus on multimodal reasoning, including the understanding and generation of multimodal models.
 
@@ -17,6 +17,11 @@ My research interests focus on multimodal reasoning, including the understanding
 - **[2024-09]** 🎉 One paper ([Learning from Mistakes](https://arxiv.org/pdf/2312.16204)) is accepted by EMNLP 2024.
 
 {% include_relative _includes/publications.md %}
+
+## Educations
+
+- *2025.08 – now,* PhD Student, Electronic Engineering, The Chinese University of Hong Kong.
+- *2021.09 – 2025.06,* Bachelor of Engineering, Electronic Information Engineering, University of Science and Technology of China
 
 ## Honors and Awards
 
