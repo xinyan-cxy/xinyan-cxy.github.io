@@ -15,7 +15,7 @@ main:
     code: https://github.com/yqi19/MME-CoF-Pro
     project: https://video-reasoning-coherence.github.io/
     benchmark: https://huggingface.co/datasets/yqi19/mme-cof-pro
-    image: ./assets/img/MME-CoF-Pro.png
+    image: ./assets/img/MME-CoF.png
 
   - title: "MME-CoF-Pro: Evaluating Reasoning Coherence in Video Generative Models with Text and Visual Hints"
     authors: "Ziyu Guo*, <strong>Xinyan Chen*</strong>, Renrui Zhang*, Ruichuan An*, Yu Qi*, Dongzhi Jiang, Xiangtai Li, Manyuan Zhang, Hongsheng Li, Pheng-Ann Heng"
@@ -24,7 +24,7 @@ main:
     code: https://github.com/ZiyuGuo99/MME-CoF
     project: https://video-cof.github.io/
     benchmark: https://huggingface.co/datasets/ZiyuG/MME-CoF
-    image: ./assets/img/MME-CoF.png
+    image: ./assets/img/MME-CoF-Pro.png
 
   - title: "Mme-cot: Benchmarking chain-of-thought in large multimodal models for reasoning quality, robustness, and efficiency"
     authors: "Dongzhi Jiang*, Renrui Zhang*, Ziyu Guo, Yanwei Li†, Yu Qi†, <strong>Xinyan Chen†</strong>, Liuhui Wang†, Jianhan Jin†, Claire Guo†, Shen Yan, Bo Zhang, Chaoyou Fu, Peng Gao, Hongsheng Li"
