@@ -10,20 +10,20 @@ main:
 
   - title: "Are Video Models Ready as Zero-Shot Reasoners? An Empirical Study with the MME-CoF Benchmark"
     authors: "Yu Qi*, Xinyi Xu*, Ziyu Guo*, Siyuan Ma*, Renrui Zhang, <strong>Xinyan Chen</strong>, Ruichuan An, Ruofan Xing, Jiayi Zhang, Haojie Huang, Pheng-Ann Heng, Jonathan Tremblay, Lawson L.S. Wong"
+    conference_short: CVPR 2026 Findings
+    pdf: https://arxiv.org/pdf/2510.26802
+    code: https://github.com/ZiyuGuo99/MME-CoF
+    project: https://video-cof.github.io/
+    benchmark: https://huggingface.co/datasets/ZiyuG/MME-CoF
+    image: ./assets/img/MME-CoF.png
+
+  - title: "MME-CoF-Pro: Evaluating Reasoning Coherence in Video Generative Models with Text and Visual Hints"
+    authors: "Ziyu Guo*, <strong>Xinyan Chen*</strong>, Renrui Zhang*, Ruichuan An*, Yu Qi*, Dongzhi Jiang, Xiangtai Li, Manyuan Zhang, Hongsheng Li, Pheng-Ann Heng"
     conference_short: arXiv 2026
     pdf: https://arxiv.org/pdf/2603.20194
     code: https://github.com/yqi19/MME-CoF-Pro
     project: https://video-reasoning-coherence.github.io/
     benchmark: https://huggingface.co/datasets/yqi19/mme-cof-pro
-    image: ./assets/img/MME-CoF.png
-
-  - title: "MME-CoF-Pro: Evaluating Reasoning Coherence in Video Generative Models with Text and Visual Hints"
-    authors: "Ziyu Guo*, <strong>Xinyan Chen*</strong>, Renrui Zhang*, Ruichuan An*, Yu Qi*, Dongzhi Jiang, Xiangtai Li, Manyuan Zhang, Hongsheng Li, Pheng-Ann Heng"
-    conference_short: arXiv 2025
-    pdf: https://arxiv.org/pdf/2510.26802
-    code: https://github.com/ZiyuGuo99/MME-CoF
-    project: https://video-cof.github.io/
-    benchmark: https://huggingface.co/datasets/ZiyuG/MME-CoF
     image: ./assets/img/MME-CoF-Pro.png
 
   - title: "Mme-cot: Benchmarking chain-of-thought in large multimodal models for reasoning quality, robustness, and efficiency"
@@ -37,14 +37,14 @@ main:
 
   - title: "Learning from Mistakes: Iterative Prompt Relabeling for Text-to-Image Diffusion Model Training"
     authors: "<strong>Xinyan Chen*</strong>, Jiaxin Ge*, Tianjun Zhang*, Jiaming Liu, Shanghang Zhang"
-    conference_short: EMNLP 2024
+    conference_short: EMNLP 2024 Findings
     pdf: https://arxiv.org/pdf/2312.16204
     code: https://github.com/xinyan-cxy/IPR-RLDF
     image: ./assets/img/IPR-RLDF.png
 
   - title: "Thinking-while-Generating: Interleaving Textual Reasoning throughout Visual Generation"
     authors: "Ziyu Guo*, Renrui Zhang*, Hongyu Li*, Manyuan Zhang, <strong>Xinyan Chen</strong>, Sifan Wang, Yan Feng, Peng Pei, Pheng-Ann Heng"
-    conference_short: arXiv 2025
+    conference_short: CVPR 2026
     pdf: https://arxiv.org/abs/2511.16671
     code: https://github.com/ZiyuGuo99/Thinking-while-Generating
     project: https://think-while-gen.github.io/
