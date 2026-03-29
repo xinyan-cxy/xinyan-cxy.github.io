@@ -10,6 +10,8 @@ My research interests focus on multimodal reasoning, including the understanding
 
 ## News
 
+- **[2026-03]** 🔥 We release [MME-CoF-Pro](https://video-reasoning-coherence.github.io/), a comprehensive video reasoning benchmark.
+- **[2026-02]** 🎉 Two papers are accepted by CVPR 2026 (one Main, one Findings).
 - **[2025-11]** 🔥 We release [Thinking-while-Generating (TwiG)](https://github.com/ZiyuGuo99/Thinking-while-Generating), an interleaved framework that enables co-evolving textual reasoning throughout the visual generation process.
 - **[2025-10]** 🔥 We release [Are Video Models Ready as Zero-Shot Reasoners? An Empirical Study with the MME-CoF Benchmark](https://arxiv.org/abs/2510.26802), an empirical study on the zero-shot reasoning capabilities of video models.
 - **[2025-09]** 🎉 One paper ([MINT-CoT](https://arxiv.org/abs/2506.05331)) is accepted by NeurIPS 2025.
