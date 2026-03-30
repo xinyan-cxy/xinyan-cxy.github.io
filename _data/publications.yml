@@ -9,7 +9,7 @@ main:
     image: ./assets/img/MINT-CoT.png
 
   - title: "Are Video Models Ready as Zero-Shot Reasoners? An Empirical Study with the MME-CoF Benchmark"
-    authors: "Yu Qi*, Xinyi Xu*, Ziyu Guo*, Siyuan Ma*, Renrui Zhang, <strong>Xinyan Chen</strong>, Ruichuan An, Ruofan Xing, Jiayi Zhang, Haojie Huang, Pheng-Ann Heng, Jonathan Tremblay, Lawson L.S. Wong"
+    authors: "Ziyu Guo*, <strong>Xinyan Chen*</strong>, Renrui Zhang*, Ruichuan An*, Yu Qi*, Dongzhi Jiang, Xiangtai Li, Manyuan Zhang, Hongsheng Li, Pheng-Ann Heng"
     conference_short: CVPR 2026 Findings
     pdf: https://arxiv.org/pdf/2510.26802
     code: https://github.com/ZiyuGuo99/MME-CoF
@@ -18,7 +18,7 @@ main:
     image: ./assets/img/MME-CoF.png
 
   - title: "MME-CoF-Pro: Evaluating Reasoning Coherence in Video Generative Models with Text and Visual Hints"
-    authors: "Ziyu Guo*, <strong>Xinyan Chen*</strong>, Renrui Zhang*, Ruichuan An*, Yu Qi*, Dongzhi Jiang, Xiangtai Li, Manyuan Zhang, Hongsheng Li, Pheng-Ann Heng"
+    authors: "Yu Qi*, Xinyi Xu*, Ziyu Guo*, Siyuan Ma*, Renrui Zhang, <strong>Xinyan Chen</strong>, Ruichuan An, Ruofan Xing, Jiayi Zhang, Haojie Huang, Pheng-Ann Heng, Jonathan Tremblay, Lawson L.S. Wong"
     conference_short: arXiv 2026
     pdf: https://arxiv.org/pdf/2603.20194
     code: https://github.com/yqi19/MME-CoF-Pro
