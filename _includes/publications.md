@@ -54,10 +54,6 @@
       <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
       {% endif %}
 
-      {% if link.notes_plain %}
-      <span style="font-size:12px;">{{ link.notes_plain }}</span>
-      {% endif %}
-      
     </div>
   </div>
 </div>
