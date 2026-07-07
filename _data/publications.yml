@@ -5,12 +5,14 @@ main:
     conference_short: Technical Report
     pdf: https://seed.bytedance.com/seed2_1
     notes: "Contributor (VLM Post-train Group)"
+    image: ./assets/img/Seed2.1.png
 
   - title: "Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity"
     authors: "ByteDance Seed"
     conference_short: Technical Report
     pdf: https://arxiv.org/abs/2607.00248
     notes: "Contributor (VLM Post-train Group)"
+    image: ./assets/img/Seed2.0.png
 
   - title: "MINT-CoT: Enabling Interleaved Visual Tokens in Mathematical Chain-of-Thought Reasoning"
     authors: "<strong>Xinyan Chen*</strong>, Renrui Zhang*, Dongzhi Jiang, Aojun Zhou, Shilin Yan, Weifeng Lin, Hongsheng Li"

@@ -23,9 +23,14 @@ My research interests focus on multimodal reasoning, including the understanding
 
 {% include_relative _includes/publications.md %}
 
+## Experience
+
+- *2025.12 – Present,* Research Intern, Seed, ByteDance
+- *2024.09 – 2025.01,* Research Intern, SenseTime
+
 ## Educations
 
-- *2025.08 – now,* PhD Student, Electronic Engineering, The Chinese University of Hong Kong.
+- *2025.08 – Present,* PhD Student, Electronic Engineering, The Chinese University of Hong Kong.
 - *2021.09 – 2025.06,* Bachelor of Engineering, Electronic Information Engineering, University of Science and Technology of China
 
 ## Honors and Awards
