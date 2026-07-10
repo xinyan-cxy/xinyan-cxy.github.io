@@ -9,13 +9,13 @@ main:
     image: ./assets/img/OpenCoF.png
 
   - title: "Seed2.1 Model Card: Agentic Intelligence for Productivity"
-    authors: "Contributor (VLM Post-train Group)"
+    authors: "<strong>Contributor (VLM Post-train Group)</strong>"
     conference_short: Technical Report
     pdf: https://seed.bytedance.com/seed2_1
     image: ./assets/img/Seed2.1.png
 
   - title: "Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity"
-    authors: "Contributor (VLM Post-train Group)"
+    authors: "<strong>Contributor (VLM Post-train Group)</strong>"
     conference_short: Technical Report
     pdf: https://arxiv.org/abs/2607.00248
     image: ./assets/img/Seed2.0.png
