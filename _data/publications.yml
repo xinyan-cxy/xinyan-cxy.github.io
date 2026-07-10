@@ -1,5 +1,13 @@
 main:
 
+  - title: "OpenCoF: Learning to Reason Through Video Generation"
+    authors: "<strong>Xinyan Chen*</strong>, Ziyu Guo*, Renrui Zhang, Dongzhi Jiang, Hongsheng Li"
+    conference_short: arXiv 2026
+    pdf: https://arxiv.org/abs/2607.08763
+    code: https://github.com/xinyan-cxy/OpenCoF
+    project: https://opencof.github.io/
+    image: ./assets/img/OpenCoF.png
+
   - title: "Seed2.1 Model Card: Agentic Intelligence for Productivity"
     authors: "Contributor (VLM Post-train Group)"
     conference_short: Technical Report

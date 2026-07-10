@@ -9,6 +9,7 @@ I’m a first-year Ph.D. student in [Multimedia Lab (MMLab)](https://mmlab.ie.cu
 My research interests focus on multimodal reasoning, including the understanding and generation of multimodal models.
 
 ## News
+- **[2026-07]** 🔥 We release [OpenCoF](https://arxiv.org/abs/2607.08763), a dataset and framework for learning video reasoning through Chain-of-Frame (CoF) supervision.
 - **[2026-06]** 🔥 Seed 2.1 is released.
 - **[2026-06]** 🎉 One paper ([MME-CoF-Pro](https://arxiv.org/pdf/2603.20194)) is accepted by ECCV 2026.
 - **[2026-05]** 🔥 We release [ATLAS](https://arxiv.org/abs/2605.15198), a new visual reasoning paradigm for agentic and latent visual reasoning.
