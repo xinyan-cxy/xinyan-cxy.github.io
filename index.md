@@ -6,7 +6,7 @@ layout: homepage
 
 I’m a first-year Ph.D. student in [Multimedia Lab (MMLab)](https://mmlab.ie.cuhk.edu.hk/), [CUHK](https://www.cuhk.edu.hk/english/index.html), supervised by Prof. [Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/). Before that, I received my B.E. degree from the [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/).
 
-My research interests focus on multimodal reasoning, including the understanding and generation of multimodal models.
+My research interests focus on multimodal reasoning, including the understanding and generation of multimodal models. Currently, as a Research Intern at ByteDance Seed, I am focusing on 2D & 3D visual coding.
 
 ## News
 - **[2026-09]** 🎉 Two papers ([OpenCoF](https://arxiv.org/abs/2607.08763) and [ATLAS](https://arxiv.org/abs/2605.15198)) are accepted by NeurIPS 2026.
