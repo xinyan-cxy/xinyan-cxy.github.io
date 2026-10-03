@@ -2,10 +2,12 @@ main:
 
   - title: "OpenCoF: Learning to Reason Through Video Generation"
     authors: "<strong>Xinyan Chen*</strong>, Ziyu Guo*, Renrui Zhang, Dongzhi Jiang, Hongsheng Li"
-    conference_short: arXiv 2026
+    conference_short: NeurIPS 2026
     pdf: https://arxiv.org/abs/2607.08763
     code: https://github.com/xinyan-cxy/OpenCoF
     project: https://opencof.github.io/
+    dataset: https://huggingface.co/datasets/xy06/OpenCoF-17k
+    model: https://huggingface.co/xy06/Wan-CoF
     image: ./assets/img/OpenCoF.png
 
   - title: "Seed2.1 Model Card: Agentic Intelligence for Productivity"
@@ -39,7 +41,7 @@ main:
 
   - title: "ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both"
     authors: "Ziyu Guo, Rain Liu, <strong>Xinyan Chen</strong>, Pheng-Ann Heng"
-    conference_short: arXiv 2026
+    conference_short: NeurIPS 2026
     pdf: https://arxiv.org/abs/2605.15198
     code: https://github.com/ZiyuGuo99/ATLAS
     project: https://atlas-oneword.github.io

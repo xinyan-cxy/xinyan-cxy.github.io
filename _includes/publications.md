@@ -46,6 +46,10 @@
       <a href="{{ link.dataset }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Dataset</a>
       {% endif %}
 
+      {% if link.model %} 
+      <a href="{{ link.model }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Model</a>
+      {% endif %}
+
       {% if link.benchmark %} 
       <a href="{{ link.benchmark }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Benchmark</a>
       {% endif %}
